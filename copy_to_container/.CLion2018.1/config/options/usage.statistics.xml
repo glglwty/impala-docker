@@ -1,0 +1,148 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Redo" count="1" />
+      <entry action="$SelectAll" count="3" />
+      <entry action="$Undo" count="11" />
+      <entry action="ActivateFavoritesToolWindow" count="1" />
+      <entry action="ActivateProjectToolWindow" count="5" />
+      <entry action="CMake.ClearCacheAndReload" count="1" />
+      <entry action="CMake.ReloadCMakeProject" count="3" />
+      <entry action="DialogCancelAction Escape" count="8" />
+      <entry action="DialogOkAction Enter" count="2" />
+      <entry action="EditorBackSpace" count="13" />
+      <entry action="EditorCopy" count="5" />
+      <entry action="EditorDelete" count="2" />
+      <entry action="EditorDown" count="13" />
+      <entry action="EditorEnter" count="2" />
+      <entry action="EditorLeft" count="145" />
+      <entry action="EditorLineEnd" count="9" />
+      <entry action="EditorLineEndWithSelection" count="2" />
+      <entry action="EditorLineStart" count="12" />
+      <entry action="EditorLineStartWithSelection" count="2" />
+      <entry action="EditorPageDown" count="90" />
+      <entry action="EditorPageUp" count="2" />
+      <entry action="EditorPaste" count="4" />
+      <entry action="EditorRight" count="127" />
+      <entry action="EditorUp" count="33" />
+      <entry action="EditorUpWithSelection" count="1" />
+      <entry action="Find" count="5" />
+      <entry action="FindInPath" count="1" />
+      <entry action="GotoFile" count="5" />
+      <entry action="SaveAll" count="1" />
+      <entry action="ShowSettings" count="16" />
+    </counts>
+  </component>
+  <component name="FeatureUsageStatistics" first-run="1524594003481" have-been-shown="false" show-in-other="true" show-in-compilation="true">
+    <feature id="refactoring.moveTopLevel" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.introduceTypedef" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.rename" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.pushDown" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.inlineMacro" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.changeSignature" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickFix" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.altInsert" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.complete.statement" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.inlineTypedef" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.goto.inspection" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.introduceConstant" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.pullUp" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.class" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.overrideimplement" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.parameterInfo" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.inlineParameter" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickdefinition" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.basic" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.inlineConst" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="tag.name.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="generate.definitions" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.extractMethod" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.introduceDefine" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.surroundwith.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.select.word" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.extractSuperclass" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.inlineMethod" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.extractSubclass" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.smarttype.general" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.file.structure" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.new.cmake.project" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.liveTemplates" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.select.in" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.goto.usages" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickjavadoc" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.introduceParameter" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.inlineLocalVar" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.changeSorting" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.appCodeIntroduceVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.moveMembers" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <completionStatsTag>
+      <option name="sparedCharacters" value="0" />
+      <option name="invocations" value="0" />
+      <option name="startDate" value="0" />
+      <option name="dayCount" value="0" />
+      <option name="lastDate" value="0" />
+    </completionStatsTag>
+    <fixesStatsTag>
+      <option name="invocations" value="0" />
+      <option name="startDate" value="0" />
+      <option name="dayCount" value="0" />
+      <option name="lastDate" value="0" />
+    </fixesStatsTag>
+  </component>
+  <component name="MainMenuCollector">
+    <counts>
+      <entry path="Tools -&gt; CMake -&gt; Reset Cache and Reload Project" count="1" />
+    </counts>
+  </component>
+  <component name="ShortcutsCollector">
+    <counts>
+      <entry shortcut="Alt+1" count="5" />
+      <entry shortcut="Alt+2" count="1" />
+      <entry shortcut="Backspace" count="13" />
+      <entry shortcut="Ctrl+A" count="3" />
+      <entry shortcut="Ctrl+Alt+S" count="16" />
+      <entry shortcut="Ctrl+C" count="5" />
+      <entry shortcut="Ctrl+F" count="7" />
+      <entry shortcut="Ctrl+S" count="1" />
+      <entry shortcut="Ctrl+Shift+F" count="1" />
+      <entry shortcut="Ctrl+Shift+N" count="5" />
+      <entry shortcut="Ctrl+Shift+Z" count="1" />
+      <entry shortcut="Ctrl+V" count="4" />
+      <entry shortcut="Ctrl+Z" count="11" />
+      <entry shortcut="Delete" count="2" />
+      <entry shortcut="Down" count="16" />
+      <entry shortcut="End" count="9" />
+      <entry shortcut="Enter" count="5" />
+      <entry shortcut="Escape" count="10" />
+      <entry shortcut="Home" count="12" />
+      <entry shortcut="Left" count="145" />
+      <entry shortcut="Page Down" count="90" />
+      <entry shortcut="Page Up" count="2" />
+      <entry shortcut="Right" count="127" />
+      <entry shortcut="Shift+End" count="2" />
+      <entry shortcut="Shift+Home" count="2" />
+      <entry shortcut="Shift+Up" count="1" />
+      <entry shortcut="Space" count="1" />
+      <entry shortcut="Up" count="34" />
+    </counts>
+  </component>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="CMake.ReloadCMakeProject@CMakeOutputLeft" count="3" />
+      <entry action="com.intellij.application.options.schemes.AbstractSchemesPanel$ShowSchemesActionsListAction@NavBarToolbar" count="10" />
+    </counts>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="StripeButton[Version Control].shown" count="1" />
+      <entry feature="ide.settings.C/C++" count="2" />
+      <entry feature="ide.settings.Code Style" count="2" />
+      <entry feature="ide.settings.Font" count="1" />
+      <entry feature="ide.settings.General" count="1" />
+      <entry feature="ide.settings.Toolchains" count="3" />
+      <entry feature="ideaapp.started" count="3" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="1" />
+    </counts>
+  </component>
+</application>

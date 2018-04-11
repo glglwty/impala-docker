@@ -1,0 +1,17 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1680.1050" x="629" y="206" />
+    <location key="WELCOME_SCREEN.0.0.1680.1050" x="846" y="452" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1680.1050" x="486" y="348" />
+    <location key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor.0.0.1680.1050" x="424" y="182" />
+    <location key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.1680.1050" x="665" y="415" />
+    <location key="SettingsEditor.0.0.1680.1050" x="305" y="172" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.2560.1600" x="141" y="628" />
+    <location key="FileChooserDialogImpl.0.0.2560.1600" x="350" y="555" />
+    <location key="SettingsEditor.0.0.2560.1600" x="47" y="446" />
+    <size key="FileChooserDialogImpl.0.0.1680.1050" width="436" height="495" />
+    <size key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor.0.0.1680.1050" width="836" height="695" />
+    <size key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.1680.1050" width="351" height="225" />
+    <size key="SettingsEditor.0.0.1680.1050" width="1072" height="716" />
+  </component>
+</application>

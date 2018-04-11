@@ -1,0 +1,31 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/projects/impala" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/projects/impala" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/projects/impala" />
+    <option name="pid" value="12511" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/projects/impala">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="CL-181.4203.549" />
+              <option name="productionCode" value="CL" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1524602828226" />
+              <option name="buildTimestamp" value="1522089495284" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

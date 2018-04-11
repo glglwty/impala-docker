@@ -1,0 +1,15 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.rearrangeEntriesJava" value="true" />
+    <property name="SearchEveryWhereHistory" value="//" />
+    <property name="SettingsSearchHistory" value="new line" />
+    <property name="android-component-compatibility-check" value="1524594241848" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/configs/idea_codestyle.xml&#10;/usr/lib/jvm/java-8-openjdk-amd64&#10;/home/impdev/projects/impala/fe" />
+    <property name="file.gist.reindex.count" value="810" />
+    <property name="installed.kotlin.plugin.version" value="1.2.31-release-IJ2018.1-1" />
+    <property name="lastTip" value="2" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Blank Lines" />
+  </component>
+</application>

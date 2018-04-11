@@ -1,0 +1,10 @@
+<application>
+  <component name="CPPToolchains" version="2">
+    <toolchains detectedVersion="5">
+      <toolchain name="Default" customCMakePath="$USER_HOME$/scripts/cmake_ninja_wrapper.py" debuggerKind="BUNDLED_GDB" />
+    </toolchains>
+  </component>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$USER_HOME$/configs/clion_codestyle.xml" />
+  </component>
+</application>
