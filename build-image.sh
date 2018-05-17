@@ -1,5 +1,3 @@
-#! /usr/bin/env nix-shell
-#! nix-shell -i bash -p stdenv git docker systemd
 IMPALA_REPO="${IMPALA_REPO:-https://git-wip-us.apache.org/repos/asf/impala.git}"
 REMOTE_MASTER="$(git ls-remote "$IMPALA_REPO" | grep refs/heads/master | awk '{print $1}')"
 GIT_REV="${IMPALA_REV:-$REMOTE_MASTER}"

@@ -10,6 +10,9 @@ import os.path
 
 # ---------------------- Configuration section ------------------------------
 
+# NIXOS set LD_LIBRARY_PATH for clion. Let's not pass it down to cmake/ninja.
+del os.environ["LD_LIBRARY_PATH"]
+
 REAL_CMAKE = subprocess.check_output(['which', 'cmake']).strip()
 NINJA_PATH = subprocess.check_output(['which', 'ninja']).strip()
 
